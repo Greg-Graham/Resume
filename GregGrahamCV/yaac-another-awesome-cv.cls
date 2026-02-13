@@ -71,7 +71,7 @@
 \RequirePackage{longtable} 	
 \RequirePackage{etoolbox}
 \RequirePackage{tikz}
-\RequirePackage[skins]{tcolorbox}
+%\RequirePackage[skins]{tcolorbox}  % unused, causes tagging debug output in TeX Live 2025
 \RequirePackage{fancyhdr}
 
 
