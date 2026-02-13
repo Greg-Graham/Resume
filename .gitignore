@@ -1,0 +1,20 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+*.toc
+*.lof
+*.lot
+
+# Generated PDF (compile from source)
+# *.pdf
+
+# macOS
+.DS_Store
