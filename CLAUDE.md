@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-LaTeX resume/CV using the "YAAC: Another Awesome CV" template (`yaac-another-awesome-cv.cls`). Compiled with **LuaLaTeX** (not pdflatex or xelatex). Primarily edited and compiled on [Overleaf](https://www.overleaf.com/).
+LaTeX resume/CV using the "YAAC: Another Awesome CV" template (`yaac-another-awesome-cv.cls`). Compiled with **LuaLaTeX** (not pdflatex or xelatex). 
 
 ## Build
 
